@@ -1,10 +1,5 @@
 # Primeira Lista de Exercícios: Introdução ao Teste de Software
 
-## Grupo
-- Christoffer de Paula
-- Juliana Araújo
-- Maycon Ferreira
-
 ## Resolução da Lista
 [Link para resolução da lista](Resolução%20Lista1.md).
 
