@@ -3,7 +3,7 @@
 Matéria lecionada pelo professor [Vinícius Durelli](https://github.com/macro-mancer)
 
 ## Grupo
-- Christoffer de Paula
+- [Christoffer de Paula](https://github.com/ChristofferOliveira)
 - [Juliana Araújo](https://github.com/arauju)
 - [Maycon Ferreira](https://github.com/Maycon-Ferreira)
 
