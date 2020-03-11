@@ -8,7 +8,7 @@ Matéria lecionada pelo professor [Vinícius Durelli](https://github.com/macro-m
 - [Maycon Ferreira](https://github.com/Maycon-Ferreira)
 
 ## Dependências de Código-Fonte e Testes
-- JDK 11.0.6
+- [JDK 11](https://www.oracle.com/java/technologies/javase/jdk11-archive-downloads.html)
 - JUnit 5.4
 
 ## Listas de Exercícios
