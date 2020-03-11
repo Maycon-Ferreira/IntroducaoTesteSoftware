@@ -6,7 +6,7 @@
 - Maycon Ferreira
 
 ## Resolução da Lista
-[Link para resolução da lista](Resolução%20da%20Lista.md).
+[Link para resolução da lista](Resolução%20Lista1.md).
 
 ## Implementação
 [Link para diretório do código fonte](src).
