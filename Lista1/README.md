@@ -8,10 +8,6 @@
 ## Resolução da Lista
 [Link para resolução da lista](Resolução%20da%20Lista.md).
 
-## Dependências de Implementação e Testes
-- JDK 11.0.6
-- JUnit 5.4
-
 ## Implementação
 [Link para diretório do código fonte](src).
 
@@ -19,4 +15,4 @@
 [Link para diretório dos testes de unidade](test).
 
 ## JavaDoc
-[Link para JavaDoc do código-fonte](docs/index.html).
+[Link para JavaDoc do código-fonte](docs/index.html). //@TODO: visualização pelo github
